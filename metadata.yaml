@@ -1,0 +1,33 @@
+_repo: Cock-Lane-and-Common-Sense_12674
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parapsychology -- Early works to 1900'
+- !lcc 'BF'
+- !lcsh 'Ghosts'
+- GITenberg
+tableOfContents: Preface -- Introduction -- Savage spiritualism -- Ancient spiritualism
+  -- Comparative psychical research -- Haunted houses -- Cock Lane and common-sense
+  -- Apparitions, ghosts, and hallucinations -- Scrying or crystal-gazing -- The second
+  sight -- Ghosts before the law -- A modern trial for witchcraft -- Presbyterian
+  ghost hunters -- The logic of table-turning -- The ghost theory of the origin of
+  religion.
+title: Cock Lane and Common-Sense
+url: http://www.gutenberg.org/ebooks/12674
